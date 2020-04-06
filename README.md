@@ -45,7 +45,7 @@
 
 Программа будет принимать ключи торрента и принимать их как аргументы (см. https://jenyay.net/Programming/Argparse )
 
-Далее она должна создать zip-архив и залить на send.firefox.com (см. https://github.com/timvisee/ffsend ) и как то получить ссылку из консоли (см. https://python-scripts.com/subprocess )
+Далее она должна создать zip-архив и залить на send.firefox.com (см. https://github.com/timvisee/ffsend ) и как то получить ссылку из консоли (см. https://python-scripts.com/subprocess ). пример реализации выхвата текста из командной строки ( https://github.com/LencoDigitexer/RAPy/blob/1110a52b35ebb452474798c6ce2ca7bd3f2b8f12/adobe.py#L229 )
 
 <br>
 
