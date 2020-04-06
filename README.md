@@ -45,7 +45,7 @@
 
 Программа будет принимать ключи торрента и принимать их как аргументы (см. https://jenyay.net/Programming/Argparse )
 
-Далее она должна создать zip-архив и залить на https://vshare.is/ (api смотреть здесь https://vshare.is/docs/api ).
+Далее она должна создать zip-архив и залить на https://vshare.is/ (api смотреть здесь https://vshare.is/docs/api ). Можно на anonfile.com , но вк его блочит.
 
 <br>
 
