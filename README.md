@@ -45,7 +45,7 @@
 
 Программа будет принимать ключи торрента и принимать их как аргументы (см. https://jenyay.net/Programming/Argparse )
 
-Далее она должна создать zip-архив и залить на https://vshare.is/ (api смотреть здесь https://vshare.is/docs/api ). Можно на anonfile.com , но вк его блочит.
+Далее она должна создать zip-архив и залить на send.firefox.com (см. https://github.com/timvisee/ffsend ) и как то получить ссылку из консоли (см. https://python-scripts.com/subprocess )
 
 <br>
 
