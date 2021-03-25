@@ -12,7 +12,7 @@ mccabe==0.6.1
 multidict==4.7.5
 pylint==2.4.4
 pythorrent==0.1
-pyyaml==5.3.1
+pyyaml==5.4
 qbittorrent-api==0.5.1
 requests==2.23.0
 six==1.14.0
