@@ -18,7 +18,7 @@ requests==2.23.0
 six==1.14.0
 torrentool==1.0.2
 typed-ast==1.4.1
-urllib3==1.25.8
+urllib3==1.26.5
 vk-api==11.8.0
 wget==3.2
 wrapt==1.11.2
